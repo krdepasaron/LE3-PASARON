@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\PasaronLE2\PasaronBlogDB\bin\Debug\PasaronBlogDB.dacpac
+C:\Users\user\source\repos\PasaronLE2\PasaronBlogDB\bin\Debug\PasaronBlogDB.dll
+C:\Users\user\source\repos\PasaronLE2\PasaronBlogDB\bin\Debug\PasaronBlogDB.pdb
+C:\Users\user\source\repos\PasaronLE2\PasaronBlogDB\obj\Debug\PasaronBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\user\source\repos\PasaronLE2\PasaronBlogDB\obj\Debug\PasaronBlogDB.dll
+C:\Users\user\source\repos\PasaronLE2\PasaronBlogDB\obj\Debug\PasaronBlogDB.pdb
+C:\Users\user\source\repos\PasaronLE2\PasaronBlogDB\obj\Debug\Model.xml
+C:\Users\user\source\repos\PasaronLE2\PasaronBlogDB\obj\Debug\refactor.xml
+C:\Users\user\source\repos\PasaronLE2\PasaronBlogDB\obj\Debug\postdeploy.sql
+C:\Users\user\source\repos\PasaronLE2\PasaronBlogDB\obj\Debug\predeploy.sql
